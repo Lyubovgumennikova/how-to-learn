@@ -9,9 +9,7 @@
 Flexbox
 Позиционирование элементов
 Анимация и трансформация с помощью CSSМетодология БЭМ
-
-Структура файлов и пути к файлам (вложенный БЭМ)
 Git
 
 Инструкция по установке:
-git clone https://github.com/
+git clone https://github.com/Lyubovgumennikova/how-to-learn.git
